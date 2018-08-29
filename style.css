@@ -7,3 +7,9 @@ body
 {
 background-color:rgb(20,150,30);
 }
+img
+{
+  padding: 25px;
+  border: 25px solid blue;
+  margin; 25px;
+}
