@@ -1,5 +1,6 @@
 p 
 {
+  margin: 0px;
 font-size 200%;
 color:rgb(50,105,200);
 }
@@ -9,7 +10,7 @@ background-color:rgb(20,150,30);
 }
 img
 {
-  padding: 25px;
+  padding: 25px:
   border: 25px solid blue;
-  margin; 25px;
+  margin; 25px:
 }
